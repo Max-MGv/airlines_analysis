@@ -21,7 +21,8 @@ In this section, we analyze flight delays and present the findings using various
 
 - **Most Common Delay:** The most frequent delay duration is 10 minutes.
 
-![Flight Delay Histogram](./My files/Linux files/Downloads/graphs/delays.png)
+![Flight Delay Histogram](https://github.com/Max-MGv/airlines_analysis/blob/main/delays.png)
+
 
 *Figure 1: Histogram showing the distribution of flight delays greater than 0 minutes.*
 
