@@ -11,19 +11,37 @@ Exploring the Data
 The initial part of the code explores the flight dataset, providing basic statistics and data overview.
 
 ## Exploring Flight Delays
-This section analyzes flight delays, including mean delay, maximum delay, minimum delay, and the most common delay duration.
+
+In this section, we analyze flight delays and present the findings using various visualizations.
+## Initial Exaimination of Data
+
+- **Mean Delay:** We calculate the mean delay for all flights with delays, which is approximately 14.28 minutes.
+
+- **Maximum and Minimum Delay:** The maximum delay observed in the dataset is a substantial 1560 minutes, while the minimum delay is 0 minutes.
+
+- **Most Common Delay:** The most frequent delay duration is 10 minutes.
+
+![Flight Delay Histogram](my_files/linux_files/downloads/graphs/delays.png)
+*Figure 1: Histogram showing the distribution of flight delays greater than 0 minutes.*
 
 ## First Class & Coach Prices Correlation
-Here, we examine the correlation between first-class and coach prices using a sample subset of the data.
+
+Here, we investigate the correlation between first-class and coach prices using a random subset of the data.
+
+![First Class & Coach Prices Correlation](path/to/firstclass_coach_prices_correlation.png)
+*Figure 2: Scatter plot depicting the correlation between first-class and coach prices for a random subset of flights.*
 
 ## Correlation Between Coach Prices & Perks
-This part of the analysis explores the correlation between coach prices and in-flight perks, such as inflight entertainment, inflight meal, and inflight Wi-Fi.
 
-## Length of Flights & Number of Passengers Relationship
-This section investigates the relationship between the length of flights and the number of passengers.
+We examine the relationship between coach prices and in-flight perks, including inflight entertainment, inflight meal, and inflight Wi-Fi.
 
-## Prices on Weekends
-An analysis of coach prices on weekends is presented here.
+![Coach Prices vs. Inflight Entertainment](path/to/coach_prices_inflight_entertainment.png)
+*Figure 3: Histogram illustrating the distribution of coach prices based on the availability of inflight entertainment.*
 
-## Coach Prices by Redeye
-The last section explores coach prices for flights categorized as red-eye flights.
+![Coach Prices vs. Inflight Meal](path/to/coach_prices_inflight_meal.png)
+*Figure 4: Histogram displaying the distribution of coach prices based on the availability of inflight meals.*
+
+![Coach Prices vs. Inflight Wi-Fi](path/to/coach_prices_inflight_wifi.png)
+*Figure 5: Histogram showcasing the distribution of coach prices based on the availability of inflight Wi-Fi.*
+
+These visualizations provide insights into the relationships between various factors within the flight dataset.
