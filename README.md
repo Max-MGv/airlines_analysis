@@ -4,19 +4,6 @@ airline flights analysis
 
 This repository contains Python code for analyzing flight data. It includes data exploration, visualization, and statistical analysis of flight-related information.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Exploring the Data](#exploring-the-data)
-- [Exploring Flight Delays](#exploring-flight-delays)
-- [First Class & Coach Prices Correlation](#first-class--coach-prices-correlation)
-- [Correlation Between Coach Prices & Perks](#correlation-between-coach-prices--perks)
-- [Length of Flights & Number of Passengers Relationship](#length-of-flights--number-of-passengers-relationship)
-- [Prices on Weekends](#prices-on-weekends)
-- [Coach Prices by Redeye](#coach-prices-by-redeye)
-
 ## Overview
 
 This project aims to provide insights into flight data using Python. It includes various analyses and visualizations to better understand the dataset.
@@ -25,7 +12,6 @@ The initial part of the code explores the flight dataset, providing basic statis
 
 ## Exploring Flight Delays
 This section analyzes flight delays, including mean delay, maximum delay, minimum delay, and the most common delay duration.
-*Figure 1: Histogram showing the distribution of flight delays greater than 0 minutes.*
 
 ## First Class & Coach Prices Correlation
 Here, we examine the correlation between first-class and coach prices using a sample subset of the data.
