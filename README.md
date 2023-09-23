@@ -25,6 +25,7 @@ The initial part of the code explores the flight dataset, providing basic statis
 
 ## Exploring Flight Delays
 This section analyzes flight delays, including mean delay, maximum delay, minimum delay, and the most common delay duration.
+*Figure 1: Histogram showing the distribution of flight delays greater than 0 minutes.*
 
 ## First Class & Coach Prices Correlation
 Here, we examine the correlation between first-class and coach prices using a sample subset of the data.
