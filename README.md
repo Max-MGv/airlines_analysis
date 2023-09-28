@@ -1,5 +1,4 @@
-# airlines_analysis
-airline flights analysis
+
 # Flight Data Analysis
 
 This repository contains Python code for analyzing flight data. It includes data exploration, visualization, and statistical analysis of flight-related information.
